@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HellDIvers2</string>
+    <string name="click">스트라타젬 불러오기 (Click!)</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+</resources>
